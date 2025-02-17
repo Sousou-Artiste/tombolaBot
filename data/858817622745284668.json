@@ -1,0 +1,72 @@
+{
+    "tombola": {
+        "end_time": "22/02/2025 20:00",
+        "num_winners": 4,
+        "prizes": [
+            "souris",
+            "pizza",
+            "bob",
+            "poussi\u00e8re"
+        ],
+        "tombola_usage": {
+            "ailo": {
+                "last_used": 24319.75,
+                "count": 1
+            },
+            "M\u00e9lina": {
+                "last_used": 24359.656,
+                "count": 1
+            },
+            "gwen": {
+                "last_used": 24424.343,
+                "count": 1
+            },
+            "pizza": {
+                "last_used": 24426.859,
+                "count": 1
+            },
+            "bob": {
+                "last_used": 24428.937,
+                "count": 1
+            },
+            "michel": {
+                "last_used": 24442.812,
+                "count": 1
+            },
+            "go": {
+                "last_used": 24446.656,
+                "count": 1
+            },
+            "myah": {
+                "last_used": 24449.187,
+                "count": 1
+            },
+            "kylea": {
+                "last_used": 24451.656,
+                "count": 1
+            },
+            "maxence": {
+                "last_used": 24454.093,
+                "count": 1
+            },
+            "marie": {
+                "last_used": 24457.593,
+                "count": 1
+            },
+            "mathieu": {
+                "last_used": 24461.968,
+                "count": 1
+            },
+            "george": {
+                "last_used": 24466.421,
+                "count": 1
+            },
+            "test": {
+                "last_used": 24473.5,
+                "count": 1
+            }
+        },
+        "launch_channel": 880389623602364426,
+        "active": false
+    }
+}
