@@ -1,0 +1,6 @@
+# ignore les fichiers d'environnement
+.env
+
+# ignore les fichiers temporaires et les fichiers json
+data/
+*.json
